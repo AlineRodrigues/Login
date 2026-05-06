@@ -1,4 +1,4 @@
-# Desafio Login (Versão Final Ajustada)
+# Desafio Login
 
 Projeto desenvolvido conforme o enunciado da atividade.
 
