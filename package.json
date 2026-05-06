@@ -1,0 +1,8 @@
+{
+  "name": "login-final-ajustado",
+  "version": "1.0.0",
+  "main": "src/services/auth.js",
+  "scripts": {
+    "test": "node tests/login.test.js"
+  }
+}
